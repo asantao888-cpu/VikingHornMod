@@ -1,0 +1,6 @@
+[package]
+name = "VikingHornMod"
+namespace = "VikingHorn"
+version = "1.0.0"
+description = "A powerful mod for enhancing gameplay."
+website_url = "https://example.com/VikingHornMod"
