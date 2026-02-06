@@ -1,0 +1,21 @@
+# This is a comment
+
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Visual Studio files
+.vscode/
+*.userprefs
+*.csproj
+*.sln
+
+# macOS files
+.DS_Store
+
+# Rider files
+.idea/
